@@ -6,7 +6,7 @@ const Footer = () => {
       <footer class="py-5 bg-info">
         <div class="container">
           <p class="m-0 text-center text-white">
-            Copyright © Your Website 2023
+            Copyright © Smart Basket 2024
           </p>
         </div>
       </footer>
